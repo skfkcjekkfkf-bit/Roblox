@@ -1,0 +1,346 @@
+{
+  "collection_time_utc": "2026-11-22T04:24:04+00:00",
+  "games_n": 150,
+  "daily_history_games_n": 149,
+  "daily_history_rows_n": 8809,
+  "history_day_span": {
+    "first": "2026-08-25",
+    "last": "2026-11-21"
+  },
+  "history_days_per_game": {
+    "n": 149,
+    "median": 74.0,
+    "q1": 27.0,
+    "q3": 87.0,
+    "min": 1.0,
+    "max": 87.0
+  },
+  "estimated_revenue_value_nonmissing": 142,
+  "verified_actual_revenue_records": 0,
+  "genres": {
+    "Action": {
+      "games_n": 25,
+      "current_ccu": {
+        "n": 25,
+        "median": 11731.0,
+        "q1": 3.0,
+        "q3": 23498.0,
+        "min": 0.0,
+        "max": 99762.0
+      },
+      "lifetime_visits": {
+        "n": 25,
+        "median": 39800756.0,
+        "q1": 7586572.0,
+        "q3": 1908827174.0,
+        "min": 1078250.0,
+        "max": 19682607009.0
+      },
+      "likes": {
+        "n": 25,
+        "median": 59644.0,
+        "q1": 9114.0,
+        "q3": 524417.0,
+        "min": 724.0,
+        "max": 8517160.0
+      },
+      "favorites": {
+        "n": 25,
+        "median": 196267.0,
+        "q1": 47210.0,
+        "q3": 3280671.0,
+        "min": 3141.0,
+        "max": 16757158.0
+      },
+      "games_with_history_n": 25,
+      "history_days_per_game": {
+        "n": 25,
+        "median": 76.0,
+        "q1": 71.0,
+        "q3": 87.0,
+        "min": 8.0,
+        "max": 87.0
+      },
+      "latest_observation_vs_own_recorded_peak_percent": {
+        "n": 25,
+        "median": -56.03594217997134,
+        "q1": -73.36843937679521,
+        "q3": -32.37337319732677,
+        "min": -100.0,
+        "max": 0.0
+      },
+      "games_latest_below_recorded_peak_n": 22,
+      "games_in_drawdown_calculation_n": 25
+    },
+    "RPG": {
+      "games_n": 25,
+      "current_ccu": {
+        "n": 25,
+        "median": 2.0,
+        "q1": 1.0,
+        "q3": 23624.0,
+        "min": 1.0,
+        "max": 292756.0
+      },
+      "lifetime_visits": {
+        "n": 25,
+        "median": 12257038.0,
+        "q1": 4914006.0,
+        "q3": 67373268.0,
+        "min": 1022674.0,
+        "max": 65605344267.0
+      },
+      "likes": {
+        "n": 25,
+        "median": 43453.0,
+        "q1": 19613.0,
+        "q3": 182562.0,
+        "min": 505.0,
+        "max": 12891966.0
+      },
+      "favorites": {
+        "n": 25,
+        "median": 97769.0,
+        "q1": 54240.0,
+        "q3": 480510.0,
+        "min": 1397.0,
+        "max": 20277757.0
+      },
+      "games_with_history_n": 25,
+      "history_days_per_game": {
+        "n": 25,
+        "median": 75.0,
+        "q1": 65.0,
+        "q3": 78.0,
+        "min": 9.0,
+        "max": 87.0
+      },
+      "latest_observation_vs_own_recorded_peak_percent": {
+        "n": 25,
+        "median": -60.0,
+        "q1": -87.5,
+        "q3": -33.333333333333336,
+        "min": -100.0,
+        "max": 0.0
+      },
+      "games_latest_below_recorded_peak_n": 24,
+      "games_in_drawdown_calculation_n": 25
+    },
+    "Roleplay & Avatar Sim": {
+      "games_n": 25,
+      "current_ccu": {
+        "n": 25,
+        "median": 15294.0,
+        "q1": 11854.0,
+        "q3": 24525.0,
+        "min": 0.0,
+        "max": 407052.0
+      },
+      "lifetime_visits": {
+        "n": 25,
+        "median": 337557609.0,
+        "q1": 26154363.0,
+        "q3": 3032316673.0,
+        "min": 47.0,
+        "max": 89708603203.0
+      },
+      "likes": {
+        "n": 25,
+        "median": 250573.0,
+        "q1": 22614.0,
+        "q3": 973657.0,
+        "min": 0.0,
+        "max": 9651250.0
+      },
+      "favorites": {
+        "n": 25,
+        "median": 1086502.0,
+        "q1": 275988.0,
+        "q3": 7804398.0,
+        "min": 2.0,
+        "max": 68296073.0
+      },
+      "games_with_history_n": 25,
+      "history_days_per_game": {
+        "n": 25,
+        "median": 87.0,
+        "q1": 76.0,
+        "q3": 87.0,
+        "min": 1.0,
+        "max": 87.0
+      },
+      "latest_observation_vs_own_recorded_peak_percent": {
+        "n": 24,
+        "median": -32.152488777453236,
+        "q1": -56.92633637548891,
+        "q3": -18.549473086826545,
+        "min": -80.0,
+        "max": 0.0
+      },
+      "games_latest_below_recorded_peak_n": 23,
+      "games_in_drawdown_calculation_n": 24
+    },
+    "Simulation": {
+      "games_n": 25,
+      "current_ccu": {
+        "n": 25,
+        "median": 11922.0,
+        "q1": 10569.0,
+        "q3": 13638.0,
+        "min": 10200.0,
+        "max": 17097.0
+      },
+      "lifetime_visits": {
+        "n": 25,
+        "median": 19813101.0,
+        "q1": 11220448.0,
+        "q3": 38632850.0,
+        "min": 5587574.0,
+        "max": 751444158.0
+      },
+      "likes": {
+        "n": 25,
+        "median": 21896.0,
+        "q1": 6207.0,
+        "q3": 97064.0,
+        "min": 1389.0,
+        "max": 787538.0
+      },
+      "favorites": {
+        "n": 25,
+        "median": 170568.0,
+        "q1": 70733.0,
+        "q3": 556704.0,
+        "min": 21445.0,
+        "max": 8972957.0
+      },
+      "games_with_history_n": 25,
+      "history_days_per_game": {
+        "n": 25,
+        "median": 21.0,
+        "q1": 11.0,
+        "q3": 36.0,
+        "min": 4.0,
+        "max": 87.0
+      },
+      "latest_observation_vs_own_recorded_peak_percent": {
+        "n": 25,
+        "median": -39.61594656647881,
+        "q1": -53.379452704399014,
+        "q3": -12.170458649331884,
+        "min": -87.32187580965541,
+        "max": 0.0
+      },
+      "games_latest_below_recorded_peak_n": 20,
+      "games_in_drawdown_calculation_n": 25
+    },
+    "Sports & Racing": {
+      "games_n": 25,
+      "current_ccu": {
+        "n": 25,
+        "median": 10420.0,
+        "q1": 1.0,
+        "q3": 15924.0,
+        "min": 0.0,
+        "max": 67336.0
+      },
+      "lifetime_visits": {
+        "n": 25,
+        "median": 23996994.0,
+        "q1": 2976504.0,
+        "q3": 351046282.0,
+        "min": 0.0,
+        "max": 5051328850.0
+      },
+      "likes": {
+        "n": 25,
+        "median": 30274.0,
+        "q1": 2067.0,
+        "q3": 165910.0,
+        "min": 0.0,
+        "max": 10309238.0
+      },
+      "favorites": {
+        "n": 25,
+        "median": 94174.0,
+        "q1": 5622.0,
+        "q3": 681178.0,
+        "min": 1.0,
+        "max": 6358719.0
+      },
+      "games_with_history_n": 24,
+      "history_days_per_game": {
+        "n": 24,
+        "median": 73.5,
+        "q1": 56.0,
+        "q3": 84.0,
+        "min": 14.0,
+        "max": 87.0
+      },
+      "latest_observation_vs_own_recorded_peak_percent": {
+        "n": 24,
+        "median": -45.451585348932824,
+        "q1": -87.51580278128951,
+        "q3": -24.495035935987325,
+        "min": -100.0,
+        "max": 0.0
+      },
+      "games_latest_below_recorded_peak_n": 21,
+      "games_in_drawdown_calculation_n": 24
+    },
+    "Survival": {
+      "games_n": 25,
+      "current_ccu": {
+        "n": 25,
+        "median": 19243.0,
+        "q1": 15331.0,
+        "q3": 26155.0,
+        "min": 10041.0,
+        "max": 184210.0
+      },
+      "lifetime_visits": {
+        "n": 25,
+        "median": 57243368.0,
+        "q1": 24313194.0,
+        "q3": 2536151236.0,
+        "min": 3401448.0,
+        "max": 8044837774.0
+      },
+      "likes": {
+        "n": 25,
+        "median": 50676.0,
+        "q1": 29276.0,
+        "q3": 1355822.0,
+        "min": 1555.0,
+        "max": 4798307.0
+      },
+      "favorites": {
+        "n": 25,
+        "median": 437098.0,
+        "q1": 269325.0,
+        "q3": 3288169.0,
+        "min": 20905.0,
+        "max": 11965023.0
+      },
+      "games_with_history_n": 25,
+      "history_days_per_game": {
+        "n": 25,
+        "median": 57.0,
+        "q1": 17.0,
+        "q3": 87.0,
+        "min": 1.0,
+        "max": 87.0
+      },
+      "latest_observation_vs_own_recorded_peak_percent": {
+        "n": 24,
+        "median": -21.083044708529243,
+        "q1": -58.843138473709885,
+        "q3": -1.6895710009423637,
+        "min": -87.62634616091447,
+        "max": 0.0
+      },
+      "games_latest_below_recorded_peak_n": 19,
+      "games_in_drawdown_calculation_n": 24
+    }
+  }
+}
